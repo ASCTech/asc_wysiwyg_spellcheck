@@ -1,0 +1,6 @@
+name = "ASC WYSIWYG Spellcheck"
+description = "Enable browser spellcheck for ckeditor and wysiwyg module."
+core = "7.x"
+package = "ASC"
+version = "7.x.-1.0"
+files[] = asc_wysiwg_spellcheck.module
